@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This website will consist of a main index page which will have links to a few recipes.
 
 ## Getting Started
 
